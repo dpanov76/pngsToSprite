@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "grunt": "^1.0.1",
     "grunt-spritesmith": "^6.3.1"
   }
 }
